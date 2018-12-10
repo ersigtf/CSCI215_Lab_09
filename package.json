@@ -1,0 +1,22 @@
+{
+  "name": "csci215_lab_09",
+  "version": "1.0.0",
+  "description": "Ajax and Node.js lab",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ersigtf/CSCI215_Lab_09.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ersigtf/CSCI215_Lab_09/issues"
+  },
+  "homepage": "https://github.com/ersigtf/CSCI215_Lab_09#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
